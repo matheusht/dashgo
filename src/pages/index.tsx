@@ -19,7 +19,7 @@ export default function Home() {
       >
         <Stack spacing="4">
           <Input name='email' type="email" label="E-mail" />
-          <Input name='password' type="email" label="Senha" />
+          <Input name='password' type="password" label="Senha" />
         </Stack>
 
         <Button type="submit" mt="6" colorScheme="pink" size="lg">Entrar</Button>
